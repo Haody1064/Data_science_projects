@@ -1,1 +1,1 @@
-# SHOWCASE
+# Academic and personal projects
